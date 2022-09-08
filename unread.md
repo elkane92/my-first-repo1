@@ -19,5 +19,5 @@ $python manage.py runserver
 ## LICENSE
 
 ## Description
-<h2>Description</h2>
 
+My todo.
